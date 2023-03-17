@@ -1,0 +1,92 @@
+* {
+    box-sizing: border-box;
+    text-decoration: none;
+    scroll-behavior: smooth;
+    list-style: none;
+}
+.navbar {
+    background-color: rgb(40, 42, 53);
+    height: 80px;
+    text-align: center;
+    font-size: 25px;
+    word-spacing: 20px;
+}
+.navbar a {
+    color: white;
+    line-height: 80px;
+    
+}
+.home-next{
+    margin: 50px 50px 20px 0;
+}
+.home-next a{
+    padding: 10px;
+    color: white;
+    background-color: #04AA6D;
+    margin: 5px;
+    line-height: 10px;
+    font-size: 25px;
+}
+.about {
+    background-color: rgb(217, 238, 225);
+    /* margin: 10px; */
+}
+.about p {
+    line-height: 40px;
+    text-indent: 20px;
+    /* margin: 16px; */
+}
+.btn {
+    height: 50px;
+    font-size: 18px;
+    background-color: #04aa6d;
+    color: #ffffff;
+    border-color: #04aa6d;
+}
+.btn-2{
+    height: 50px;
+    font-size: 18px;
+    background-color: black;
+    color: #ffffff;
+    border-color: #04aa6d;
+}
+
+.html-yourself *, .html-example *{
+    text-indent: 20px;
+    line-height: 40px;
+}
+.exercise p{
+    padding: 10px;
+    background-color: lightgray;
+    border-radius: 3px;
+}
+.submit {
+    padding: 10px;
+    color: white;
+    background-color: #04AA6D;
+    margin: 5px;
+    line-height: 10px;
+    font-size: 20px;
+    border-radius: 7px;
+}
+.html-example a{
+    line-height: 40px;
+}
+.scriptbox{
+    background-color: #E7E9EB;
+    border-radius: 5px;
+    text-indent: 20px;
+}
+.inside-box{
+    background-color: #fff;
+    margin: 20px;
+    border-radius: 5px;
+}
+.javablack-button{
+    padding: 10px;
+    color: white;
+    background-color: #000000;
+    font-size: 20px;
+    border-radius: 7px;  
+    margin-left: 1000px;   
+}
